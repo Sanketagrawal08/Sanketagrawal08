@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Sanket Agrawal</h1>
-<h3 align="center">🚀 Full Stack Developer | Java + Spring Boot | MERN Stack | AI Integration Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | DSA | MERN Stack </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanket-agrawal-1a0094309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sanketagrawal6969@gmail.com">
+  <a href="mailto:sanketagrawal380@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://sanketagrawal08.github.io/personal-portfolio/" target="_blank">
+<!--   <a href="https://sanketagrawal08.github.io/personal-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 - 🎓 I'm a 4th sem CS student passionate about building real-world applications
 - 💡 I love solving problems using modern **Full Stack** technologies
-- 🔭 Currently exploring **Spring Boot**, **System Design**, and **AI-powered features**
-- 🧠 Strong in **Java, DSA, MERN stack**, and CS fundamentals (OS, DBMS, CN)
+- 🔭 Currently exploring **Spring Boot**
+- 🧠 Strong in **Java, DSA, MERN stack**
 - 🚀 Actively building projects that solve real-world problems with smart tech integrations
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanketagrawal08&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketagrawal08&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketagrawal08&layout=compact&theme=radical" width="46%" />
 </p>
 
 ---
