@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sanket Agrawal</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | DSA | MERN Stack | AI-Powered Projects</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | DSA | MERN Stack </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanket-agrawal-1a0094309/" target="_blank">
