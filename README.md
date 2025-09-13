@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sanket Agrawal</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | DSA | MERN Stack </h3>
+<h3 align="center">🚀 Full Stack Developer | Java | DSA | MERN Stack | AI-Powered Projects</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanket-agrawal-1a0094309/" target="_blank">
@@ -8,20 +8,19 @@
   <a href="mailto:sanketagrawal380@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-<!--   <a href="https://sanketagrawal08.github.io/personal-portfolio/" target="_blank">
+  <a href="https://sanketagrawal08.github.io/personal-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 4th sem CS student passionate about building real-world applications
-- 💡 I love solving problems using modern **Full Stack** technologies
-- 🔭 Currently exploring **Spring Boot**
-- 🧠 Strong in **Java, DSA, MERN stack**
-- 🚀 Actively building projects that solve real-world problems with smart tech integrations
+- 🎓 I'm a 5th sem CS student passionate about building real-world applications  
+- 💡 I love solving problems using modern **Full Stack** technologies  
+- 🧠 Strong in **Java, DSA, MERN stack**  
+- 🚀 Actively building projects that solve real-world problems with smart tech integrations  
 
 ---
 
@@ -29,16 +28,15 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 💬 **Intent-Aware Chat App** | Real-time chat with sentiment and intent detection using AI | MERN, Socket.io, transformers.js | [GitHub](https://github.com/Sanketagrawal08) |
-| 📦 **Smart Subscription Box System** | User + Admin Dashboard for smart deliveries + AI-based box builder | MERN, OpenAI API, MongoDB | [GitHub](https://github.com/Sanketagrawal08) |
-| 🔄 **ClipSync (Coming Soon)** | Real-time clipboard sync between devices | React, Node.js, WebSockets | Coming Soon |
+| 💬 **Intent-Aware Chat App** | Real-time chat with sentiment and intent detection using AI | MERN, Socket.io, Cohere API | [GitHub](https://github.com/Sanketagrawal08) |
+| 📦 **Smart Subscription Box System** | User + Admin Dashboard for smart deliveries + AI-based box builder | MERN, Cohere AI API, MongoDB | [GitHub](https://github.com/Sanketagrawal08) |
+| ✈️ **AI-Powered Trip Planner** | Generates travel plans, itineraries, and hotel options dynamically using AI | MERN, Cohere API | [GitHub](https://github.com/Sanketagrawal08) |
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
@@ -61,11 +59,9 @@
 
 ### ⚡ Fun Facts
 
-- 🧠 I integrate AI like transformers.js and OpenAI into my full-stack apps  
 - 🧩 I enjoy turning boring features into smart, intuitive workflows  
 - 💬 Always up for tech discussions, DSA practice, or project collaboration
 
 ---
 
 > ⭐ *“Code like a developer, think like a product designer.”*
-
